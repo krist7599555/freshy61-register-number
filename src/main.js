@@ -3,6 +3,8 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import "./registerServiceWorker";
+import "bulma/css/bulma.css";
+import "./style/font.css";
 
 Vue.config.productionTip = false;
 
