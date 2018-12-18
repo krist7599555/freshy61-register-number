@@ -1,26 +1,3 @@
-# first_year_register_number
+# CU ENGINEER (1st reg num)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+ระบบค้นหาลำดับลงทะเบียนและรายวิชาที่ต้องลงทะเบียน นิสิตปี1 เทอม1 ปีการศึกษา61
